@@ -127,8 +127,8 @@ session_start();
 
 $server="localhost";
 $Aname="cubicvt";
-$Aparola="XbGYa6JBpfMmz8CD";
-$veritabani="cubicvt";
+$Aparola="*****";
+$veritabani="888888";
 
 $tablo1="surface";
 $db=@mysql_connect($server,$Aname,$Aparola) or die(@mysql_err());
